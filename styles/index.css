@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src : url('../fonts/IBMPlexSerif-Medium.ttf')
+}
+
+.container {
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.main-font {
+    font-family:'IBM Plex Serif';
+}
+
+.name-title {
+    font-family: 'IBM Plex Serif';
+    font-size: 25px;
+}
+
+.pages {
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
