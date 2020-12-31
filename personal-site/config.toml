@@ -1,0 +1,39 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "shafin siddique"
+theme = "etch"
+
+[params]
+  description = "Your site description"
+  copyright = "Copyright © 2020 Your Name"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "projects"
+    name = "projects"
+    title = "projects"
+    url = "/projects"
+    weight = 20
+
+[[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/posts"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
