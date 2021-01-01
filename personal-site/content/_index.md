@@ -14,5 +14,3 @@ I currently attend the [University of Toronto](https://www.sgs.utoronto.ca/progr
 Follow my work on [Github](https://github.com/shafinsiddique) or on my personal [blog]().
 
 Contact me at shafinsiddique2020 [at] gmail [dot] com
-
-

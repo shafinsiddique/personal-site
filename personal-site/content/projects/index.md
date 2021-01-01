@@ -5,6 +5,8 @@ A list of all the projects I have worked on, excluding projects completed for sc
 
 - [Page](https://github.com/shafinsiddique/page) : An interpreter for a functional programming language that's based on Lisp. Written in Go.
 
+- **Duro** : A startup I'm currently working on. Duro makes the messy job hunting process cleaner than it has ever been before.
+
 - [Chrome Variable](https://chrome.google.com/webstore/detail/chrome-variable/eiepnmajeaiikmnepmkiejihnbfndekg) : A chrome extension that allows you to define variables for text in chrome and reuse them anywhere at any time. Helps make the job application process a lot simpler as you no longer have to open external files to copy answers you've used before.
 
 - [Easy Financial Statements](https://github.com/shafinsiddique/EasyFinancialStatements) : A web application that allows investors to compare the financial status of companies in order to determine the better investment.  
