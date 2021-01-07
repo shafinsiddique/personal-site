@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shafin - home on shafin siddique</title>
+    <link>http://example.org/</link>
+    <description>Recent content in shafin - home on shafin siddique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Solving Problems in Microservice Based Applications with Dapr</title>
+      <link>http://example.org/posts/dapr/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dapr/</guid>
+      <description>A few years back, most applications were developed in monolithic style in which there&amp;rsquo;s only three components :
+  A client side (or frontend) built out of HTML and Javascript.
+  A server side (or backend) that accepts HTTP requests from the client and executes business logic.
+  A database where information is stored.
+  The monolithic architectural style has a few drawbacks. Due to the entire business logic being in the server side, any small change requires developers to build and deploy the server side all over again.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Build your own programming language</title>
+      <link>http://example.org/posts/p2/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/p2/</guid>
+      <description>Building your own programming language is a really fun project. It&amp;rsquo;s also not as hard as it sounds. Through this post, I want to walk you through the steps you can take to start your journey in programming language development.
+I studied a lot of great resources before I was able to build my first language. I noticed that a lot of these resources began by implementing really big languages. This resulted in me losing patience and giving up countless times since it took far too long to see any actual results.</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
