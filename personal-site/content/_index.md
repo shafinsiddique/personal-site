@@ -3,7 +3,7 @@ title: "shafin - home"
 ---
 Hi, I'm Shafin.
 
-I'm passionate about all things software, and spend most of my time [building tools on my own](). 
+I'm passionate about all things software, and spend most of my time [building tools on my own]({{<ref ="/projects/">}}). 
 
 So far I've built programming language interpreters, web applications, chrome extensions, android apps and many more. I have also worked heavily with distributed systems.
 
