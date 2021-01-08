@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://shafinsiddique.github.io/personal-site/"
 languageCode = "en-us"
 title = "shafin siddique"
 theme = "etch"
@@ -31,7 +31,7 @@ pygmentsUseClasses = true
     identifier = "posts"
     name = "posts"
     title = "posts"
-    url = "/posts"
+    url = "/posts/"
     weight = 30
 
 [permalinks]
