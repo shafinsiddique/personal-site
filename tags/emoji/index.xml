@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on shafin siddique</title>
-    <link>https://shafinsiddique.github.io/personal-site/tags/emoji/</link>
+    <link>https://shafin.me/tags/emoji/</link>
     <description>Recent content in emoji on shafin siddique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shafinsiddique.github.io/personal-site/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shafin.me/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Solving Problems in Microservice Based Applications with Dapr</title>
-      <link>https://shafinsiddique.github.io/personal-site/posts/dapr/</link>
+      <link>https://shafin.me/posts/dapr/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shafinsiddique.github.io/personal-site/posts/dapr/</guid>
+      <guid>https://shafin.me/posts/dapr/</guid>
       <description>A few years back, most applications were developed in monolithic style in which there&amp;rsquo;s only three components :
   A client side (or frontend) built out of HTML and Javascript.
   A server side (or backend) that accepts HTTP requests from the client and executes business logic.
@@ -29,10 +29,10 @@
     
     <item>
       <title>Build your own programming language</title>
-      <link>https://shafinsiddique.github.io/personal-site/posts/interpreter/</link>
+      <link>https://shafin.me/posts/interpreter/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shafinsiddique.github.io/personal-site/posts/interpreter/</guid>
+      <guid>https://shafin.me/posts/interpreter/</guid>
       <description>Building your own programming language is a really fun project. It&amp;rsquo;s also not as hard as it sounds. Through this post, I want to walk you through the steps you can take to start your journey in programming language development.
 I studied a lot of great resources before I was able to build my first language. I noticed that a lot of these resources began by implementing really big languages. This resulted in me losing patience and giving up countless times since it took far too long to see any actual results.</description>
     </item>
