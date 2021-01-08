@@ -19,5 +19,5 @@ A list of all the projects I have worked on, excluding projects completed for sc
 
 - [The Nasdaq 12](https://github.com/shafinsiddique/TheNasdaq12) : A python application that allows users to analyze stocks based on the [Nasdaq Dozen indicators](http://www.eitc.org/research-opportunities/investments-fintech-law-and-emerging-startup-iindustries/the-economy-the-stock-market-investments-wealth-management/investment-and-the-economy/how-to-evaluate-stock-performance/the-nasdaq-dozen).
 
-- [Personal Blog]() : I write about various technical topics such as programming languages and distributed computing.
+- [Personal Blog]({{<ref "/posts/" >}}) : I write about various technical topics such as programming languages and distributed computing.
 

@@ -1,7 +1,7 @@
 +++
 author = "Shafin Siddique"
 title = "Build your own programming language"
-date = "2019-03-07"
+date = "2021-01-01"
 description = "Guide to emoji usage in Hugo"
 tags = [
     "emoji",
