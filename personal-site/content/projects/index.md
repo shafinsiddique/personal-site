@@ -3,6 +3,8 @@ title = "Projects"
 +++
 A list of all the projects I have worked on, excluding projects completed for school assignments.
 
+- [Unwrapped.Live](https://unwrapped.live) : View your Spotify Wrapped. You don't have to wait till the end of the year.
+
 - [Page](https://github.com/shafinsiddique/page) : An interpreter for a functional programming language that's based on Lisp. Written in Go.
 
 - **Duro** : A startup I'm currently working on. Duro makes the messy job hunting process more efficient than it has ever been before.
