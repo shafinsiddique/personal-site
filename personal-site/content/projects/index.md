@@ -3,7 +3,7 @@ title = "Projects"
 +++
 A list of all the projects I have worked on, excluding projects completed for school assignments.
 
-- [Unwrapped.Live](https://unwrapped.live) : View your Spotify Wrapped. You don't have to wait till the end of the year.
+- [unwrapped.live](https://unwrapped.live) : View your Spotify Wrapped. You don't have to wait till the end of the year.
 
 - [Page](https://github.com/shafinsiddique/page) : An interpreter for a functional programming language that's based on Lisp. Written in Go.
 
