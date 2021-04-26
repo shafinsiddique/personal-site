@@ -1,13 +1,13 @@
 baseURL = "https://shafin.me"
 languageCode = "en-us"
-title = "shafin siddique"
+title = "shafin - home"
 theme = "etch"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Personal Website of Shafin Siddique. Software Engineer."
+  description = "Hi, I'm Shafin Siddique. I'm a Software Engineer. Microsoft, Twitter, UofT. "
   copyright = "Copyright © 2020 Shafin Siddique"
   dark = "auto"
   highlight = true
