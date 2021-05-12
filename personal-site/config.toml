@@ -1,6 +1,6 @@
 baseURL = "https://shafin.me"
 languageCode = "en-us"
-title = "shafin - home"
+title = "shafin siddique"
 theme = "etch"
 enableInlineShortcodes = true
 pygmentsCodeFences = true

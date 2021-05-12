@@ -1,5 +1,5 @@
 ---
-title: "shafin siddique - software engineer"
+title: "shafin siddique"
 ---
 Hi, I'm Shafin.
 
