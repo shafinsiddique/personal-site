@@ -3,6 +3,8 @@ title = "Projects"
 +++
 A list of all the projects I have worked on, excluding projects completed for school assignments.
 
+- [alchemy](https://github.com/shafinsiddique/alchemy) : A Nintendo Game Boy Emulator written from scratch in Go. Play Nintendo games from your childhood right from your computer. Here's a demo of me playing Tetris using Alchemy. Here's another of me playing Dr. Mario.
+
 - [unwrapped.live](https://unwrapped.live) : View your Spotify Wrapped. You don't have to wait till the end of the year.
 
 - [Page](https://github.com/shafinsiddique/page) : An interpreter for a functional programming language that's based on Lisp. Written in Go.
