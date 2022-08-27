@@ -2,7 +2,7 @@
 <html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="This tutorial walks you step by step on how to get started with programming language development. We build an extremely tiny interpreter to understand the various concepts.">    
+    <meta name="description" content="Guide to emoji usage in Hugo">
     <link rel="shortcut icon" href="https://shafin.me/favicon.ico">
     
     <link rel="stylesheet" href="/css/style.min.css">
@@ -87,7 +87,7 @@
 <p>There&rsquo;s newline characters in the original source code but our array of tokens don&rsquo;t have them. This is because the newline character does not have any meaning in our language. They are not invalid but they also don&rsquo;t make a difference, so we simply ignore them. We only care about the tokens that are valid and meaningful. This is also purely a choice. In your language, you can have any character mean anything you want it to.</p>
 </li>
 <li>
-<p>The token in index 9 has &ldquo;STRING&rdquo; as the value for the field &lsquo;type&rsquo; and &ldquo;hello&rdquo; as the value for the field &lsquo;lexeme.&rsquo; When creating the lexeme, we got rid of the quotations in the raw source code. Instead of the lexeme being &ldquo;\&ldquo;hello\&quot;&rdquo;, we got it to be &ldquo;hello&rdquo;. This is because quotations only help the scanner identify that the current lexeme is of type &ldquo;STRING.&rdquo; After the lexeme has been identified, we no longer need the quotations.</p>
+<p>The token in index 9 has &ldquo;STRING&rdquo; as the value for the field &rsquo;type&rsquo; and &ldquo;hello&rdquo; as the value for the field &rsquo;lexeme.&rsquo; When creating the lexeme, we got rid of the quotations in the raw source code. Instead of the lexeme being &ldquo;\&ldquo;hello\&rdquo;&rdquo;, we got it to be &ldquo;hello&rdquo;. This is because quotations only help the scanner identify that the current lexeme is of type &ldquo;STRING.&rdquo; After the lexeme has been identified, we no longer need the quotations.</p>
 </li>
 </ol>
 <p>Now you might be wondering why we go through this process of scanning the source code. I had the same question when I first learned about it. The answer is that it makes building the other parts of our interpreter a lot simpler. When we convert the program from a giant string into a series of tokens, we make it easier for the interpreter to access specific parts of the code at runtime. If this does not make sense right away, don&rsquo;t worry, it will when we build our &lsquo;Parser&rsquo; and &lsquo;Evaluator&rsquo;.</p>

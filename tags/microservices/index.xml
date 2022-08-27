@@ -19,10 +19,10 @@
       
       <guid>https://shafin.me/posts/dapr/</guid>
       <description>A few years back, most applications were developed in monolithic style in which there&amp;rsquo;s only three components :
-  A client side (or frontend) built out of HTML and Javascript.
-  A server side (or backend) that accepts HTTP requests from the client and executes business logic.
-  A database where information is stored.
-  The monolithic architectural style has a few drawbacks. Due to the entire business logic being in the server side, any small change requires developers to build and deploy the server side all over again.</description>
+A client side (or frontend) built out of HTML and Javascript.
+A server side (or backend) that accepts HTTP requests from the client and executes business logic.
+A database where information is stored.
+The monolithic architectural style has a few drawbacks. Due to the entire business logic being in the server side, any small change requires developers to build and deploy the server side all over again.</description>
     </item>
     
     

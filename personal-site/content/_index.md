@@ -1,13 +1,16 @@
 ---
 title: "shafin siddique"
+description: "Hi I'm Shafin. I'm passionate about all things software and spend most of my time building tools on my own. Previously I worked at Facebook, Twitter, and Microsoft. Passionate about compilers, functional programming, distributed computing."
 ---
 Hi, I'm Shafin.
 
 I'm passionate about all things software, and spend most of my time [building tools on my own]({{<ref "/projects/index.md" >}}). 
 
-So far I've built gaming console emulators, programming language interpreters, web applications, chrome extensions, android apps and many more. I have also worked heavily with distributed systems.
+So far I've built compilers, interpreters, gaming console emulators, web applications, chrome extensions, android apps and many more.
 
-Previously, I worked at [Microsoft](https://www.microsoft.com/) as a Software Engineer Intern on the [Azure API Management Team](https://azure.microsoft.com/en-ca/services/api-management/).
+I recently worked at [Facebook](https://facebook.com) on their [static analysis tools team](https://engineering.fb.com/2019/08/15/security/zoncolan/). Previously, I also worked at [Twitter](https://twitter.com) and [Microsoft](https://azure.microsoft.com/en-us/services/api-management/).
+
+I am a big fan of [functional programming](https://ocaml.org/). 
 
 I currently attend the [University of Toronto](https://fas.calendar.utoronto.ca/section/Computer-Science).
 

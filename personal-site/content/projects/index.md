@@ -1,5 +1,6 @@
 +++
 title = "Projects"
+description = "A list of projects completed by Shafin Siddique."
 +++
 A list of all the projects I have worked on, excluding projects completed for school assignments.
 
@@ -7,11 +8,13 @@ A list of all the projects I have worked on, excluding projects completed for sc
 
     [Here's](https://www.youtube.com/watch?v=ZxCq3146SWk&ab_channel=ShafinSiddique) a demo of me playing Tetris using Alchemy. [Here's](https://www.youtube.com/watch?v=-vIzyEdIzsA&ab_channel=ShafinSiddique) another of me playing Dr. Mario.
 
+- [Slash](https://github.com/shafinsiddique/slash) : A compiler for my own C-Style programming language written in Haskell. Currently in active development.
+
 - [unwrapped.live](https://unwrapped.live) : View your Spotify Wrapped. You don't have to wait till the end of the year.
 
-- [Page](https://github.com/shafinsiddique/page) : An interpreter for a functional programming language that's based on Lisp. Written in Go.
+- [Page](https://github.com/shafinsiddique/page) : A complete Lisp interpreter written in Go. 
 
-- **Duro** : A startup I'm currently working on. Duro makes the messy job hunting process more efficient than it has ever been before.
+- [Page 2.0](https://github.com/shafinsiddique/page2.0) : Another Lisp interpreter written in OCaml. 
 
 - [Chrome Variable](https://chrome.google.com/webstore/detail/chrome-variable/eiepnmajeaiikmnepmkiejihnbfndekg) : A chrome extension that allows you to define variables for text in chrome and reuse them anywhere at any time. Helps make the job application process a lot simpler as you no longer have to open external files to copy answers you've used before.
 

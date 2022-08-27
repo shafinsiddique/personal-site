@@ -7,7 +7,6 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Hi, I'm Shafin Siddique. I'm a Software Engineer. Microsoft, Twitter, UofT. "
   copyright = "Copyright © 2020 Shafin Siddique"
   dark = "auto"
   highlight = true
